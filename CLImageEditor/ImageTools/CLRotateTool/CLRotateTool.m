@@ -166,7 +166,7 @@ static NSString* const kCLRotateToolCropRotate = @"cropRotateEnabled";
 
 - (void)setMenu
 {
-    CGFloat W = 60;
+    CGFloat W = 50;
     CGFloat H = _menuScroll.height;
     CGFloat x = 0;
 	

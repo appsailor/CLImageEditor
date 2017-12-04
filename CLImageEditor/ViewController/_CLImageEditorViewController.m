@@ -526,7 +526,7 @@ static const CGFloat kMenuBarHeight = 80.0f;
     for(UIView *sub in _menuView.subviews){ [sub removeFromSuperview]; }
     
     CGFloat x = 0;
-    CGFloat W = 60;
+    CGFloat W = 50;
     CGFloat H = _menuView.height;
     
     int toolCount = 0;

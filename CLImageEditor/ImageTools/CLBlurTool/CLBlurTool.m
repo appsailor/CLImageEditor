@@ -159,7 +159,7 @@ typedef NS_ENUM(NSUInteger, CLBlurType)
 
 - (void)setBlurMenu
 {
-    CGFloat W = 60;
+    CGFloat W = 50;
     CGFloat H = _menuScroll.height;
     CGFloat x = 0;
     
